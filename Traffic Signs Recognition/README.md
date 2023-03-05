@@ -15,8 +15,10 @@ To create a model that can accurately distinguish between distinct traffic signa
 The dataset contains three folders and two Excel files, which are:
 
 * **Train folder:** This folder has a subfolder with a class label as its name, and the sub-folder has images related to the class that can be used for training the model.
+Extract 'Train.zip' to a 'data' folder and all other 'Train1.zip' to 'Train9.zip' into the /data/Train folder.
 
 * **Test folder:** It has 12631 images that should be used to evaluate the model.
+Extract 'Test.zip' to a 'data' folder and 'Test1.zip' and 'Test2.zip' into the /data/Test/ folder.
 
 * **Sample images for classes:** It has one image of each class in high definition for illustration purposes.
 
